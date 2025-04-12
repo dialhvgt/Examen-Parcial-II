@@ -1,0 +1,15 @@
+{
+  "name": "libreria",
+  "version": "1.0.0",
+  "description": "Aplicación de consola para gestionar el inventario de una librería",
+  "main": "libreria.js",
+  "scripts": {
+    "start": "node libreria.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
